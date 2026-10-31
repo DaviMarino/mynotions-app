@@ -1,79 +1,76 @@
 # Quem Somos
 
-**Suas ideias, por perto.**
+**MyNotions — Suas ideias, por perto.**
 
-O MyNotions nasceu para reunir a liberdade de escrever à mão e a praticidade das notas digitais em um só lugar. Um espaço para estudar, planejar, desenhar e organizar o que importa — do primeiro rabisco a um caderno inteiro de conhecimento.
+Escreva à mão, digite, desenhe e organize suas referências no mesmo lugar. Criado por **Davi Marino**, o MyNotions combina a liberdade da caneta no tablet com a praticidade de continuar o trabalho no Windows.
 
-Criado por **Davi Marino**, o aplicativo coloca o tablet no centro da experiência: pegue sua caneta, abra uma página e dê forma às suas ideias. Combine escrita, texto, imagens e PDFs no mesmo caderno, com uma interface que deixa espaço para o seu conteúdo.
+Comece uma anotação rápida, desenvolva um caderno de estudos ou espalhe um projeto por uma Lousa. Suas notas ficam disponíveis offline e, com uma conta, acompanham você entre dispositivos.
 
 ## Instalação
 
-Baixe o APK Android na [página de versões do MyNotions](https://github.com/DaviMarino/mynotions-app/releases).
+Baixe a **versão0.18.0** para seu dispositivo:
 
-1. Abra a versão desejada e baixe o arquivo **MyNotions-…-android.apk**.
-2. Abra o arquivo no seu tablet ou celular Android.
-3. Se o Android solicitar, autorize a instalação pelo aplicativo usado para abrir o APK e conclua a instalação.
-4. Abra o MyNotions e comece seu primeiro caderno.
+- **[Android — baixar APK](https://github.com/DaviMarino/mynotions-app/releases/download/v0.18.0/MyNotions-0.18.0-android.apk):** abra no tablet ou celular, autorize a instalação pelo aplicativo usado para abrir o arquivo quando solicitado e conclua o instalador.
+- **[Windows — baixar instalador](https://github.com/DaviMarino/mynotions-app/releases/download/v0.18.0/MyNotions-0.18.0-windows-x64-setup.exe):** execute, conclua o assistente e abra o MyNotions pelo atalho.
 
-Você pode começar sem criar uma conta e usar seus cadernos offline. Para levar suas anotações entre dispositivos, crie uma conta e ative a sincronização.
-
-[Ver versões disponíveis e baixar](https://github.com/DaviMarino/mynotions-app/releases)
+Comece sem cadastro ou entre na mesma conta para sincronizar. A versão instalada aparece no rodapé do menu da Home e do editor. [Veja as novidades e arquivos da versão](https://github.com/DaviMarino/mynotions-app/releases/tag/v0.18.0).
 
 ## Descrição do aplicativo e funcionalidades
 
-### Um caderno para cada ideia
+### Cadernos organizados, ideias fáceis de encontrar
 
-Crie cadernos com várias páginas e escolha o fundo que combina com seu jeito de trabalhar: liso, pautado, quadriculado ou pontilhado. Use o zoom para cuidar dos detalhes e o modo de leitura para apresentar seu conteúdo com um ponteiro laser.
-
-<p align="center">
-  <img src="imagens/home.png" alt="Biblioteca do MyNotions com pastas, favoritos e sincronização" width="560">
-</p>
-
-### Escreva, desenhe e transforme
-
-Alterne entre caneta, marca-texto, borracha e texto. Ajuste cores e espessuras, crie formas e setas e escolha traços contínuos, tracejados ou pontilhados. Selecione elementos para mover, redimensionar, girar e reorganizar suas ideias na página.
-
-Para quem também gosta de digitar, os blocos de texto oferecem formatação Markdown, títulos, listas e destaques. Escrita à mão e teclado se complementam no mesmo espaço.
+Crie cadernos com várias páginas, distribua em pastas e subpastas, personalize as cores das pastas e marque favoritos. Descrição, tags e propriedades ajudam a contextualizar cada documento; a busca também encontra esses metadados.
 
 <p align="center">
-  <img src="imagens/escrita-e-teclado.png" alt="Caderno com escrita à mão, texto digitado e formas" width="560">
+  <img src="imagens/home.png" alt="Biblioteca com pastas, favoritos e sincronização" width="560">
 </p>
 
-### Suas referências fazem parte do caderno
+### A caneta e o teclado se complementam
 
-Insira imagens e abra PDFs para fazer suas próprias anotações sobre o material. Reúna explicações, esquemas e referências em um lugar só — para acompanhar uma aula, revisar um projeto ou registrar uma ideia com contexto.
+Combine escrita à mão com texto Markdown, títulos, listas, tarefas e código. Use formas, setas, imagens e diferentes estilos de linha para explicar suas ideias. Selecione elementos para mover, redimensionar, girar e recolorir. Conecte formas e imagens com setas que acompanham seus movimentos, escreva dentro de retângulos e quadrados e personalize cantos em pixels. O painel Objetos ajuda a encontrar elementos sobrepostos; recorte ou arraste conjuntos entre páginas para reorganizar suas ideias.
+
+Ajuste espessuras, apague objetos ou apenas a região percorrida e mantenha as cores à mão com uma paleta flutuante que você pode mover e encaixar nas laterais.
+
+<p align="center">
+  <img src="imagens/escrita-e-teclado.png" alt="Caderno com escrita à mão, teclado e formas" width="560">
+</p>
+
+### Mais espaço com a Lousa
+
+Desenvolva fluxogramas, mapas mentais e projetos em uma superfície de **10.000 × 10.000**, navegando na horizontal e na vertical. O mini mapa interativo ajuda a localizar o conteúdo e chegar a outra região mantendo o zoom.
+
+Com “somente caneta” ativo, mova a área com um dedo nas ferramentas compatíveis. Ative **Travar tela** para manter o enquadramento enquanto escreve e use Mover para reposicionar.
+
+### Suas referências fazem parte das notas
+
+Abra PDFs, escreva e destaque sobre o material. Insira imagens para reunir explicações e referências no mesmo documento. Escolha fundos lisos, pautados, quadriculados ou pontilhados; novos documentos começam quadriculados.
 
 <p align="center">
   <img src="imagens/anotacoes-pdf.png" alt="Anotações à mão sobre material em PDF" width="560">
 </p>
 
-### Organização que acompanha seu raciocínio
+### Continue no outro dispositivo e compartilhe seu trabalho
 
-Distribua seus cadernos em pastas e subpastas, personalize as cores das pastas e marque seus favoritos. Adicione descrição, tags e propriedades de chave e valor para dar contexto aos documentos.
+Suas notas são salvas localmente para trabalhar offline. Com uma conta, sincronize entre Android e Windows e acompanhe as mudanças com o documento aberto. Gerencie até três contas por dispositivo, com espaços separados.
 
-A busca encontra cadernos pelo nome e pelos metadados. As informações de cada documento ficam a um toque de distância, com uma prévia do conteúdo para ajudar a reconhecer o que você procura.
-
-### Continue de onde parou
-
-Suas anotações são salvas no dispositivo para você continuar trabalhando offline. Com uma conta, sincronize seus cadernos e acompanhe as alterações entre dispositivos conectados.
-
-Gerencie até três contas no mesmo dispositivo, com espaços separados para suas notas. Exporte seus cadernos para guardar uma cópia ou importá-los novamente quando precisar.
-
+Exporte JSON para manter uma cópia editável, páginas em PDF e imagens em **PNG ou SVG**. Escolha fundo transparente ou preenchido, ajuste a margem e confira a resolução. O PNG mantém a resolução original do recorte; o SVG preserva textos e elementos vetoriais.
 
 ### Mais controle sobre conteúdos pessoais
 
-Proteja documentos, pastas e subpastas com senha. Personalize a senha de conteúdos específicos e escolha por quanto tempo eles ficam desbloqueados durante o trabalho.
+Proteja documentos, pastas e subpastas com senha, personalize a senha de conteúdos específicos e escolha por quanto tempo ficam desbloqueados. O contador de acesso e o aviso antes do bloqueio ajudam a administrar esse tempo.
 
-O aplicativo avisa antes do bloqueio e permite renovar o tempo de acesso. Dispositivos confiáveis, confirmação por e-mail e recuperação por e-mail complementam o gerenciamento do acesso aos conteúdos protegidos.
+Dispositivos confiáveis, confirmação e recuperação por e-mail complementam o acesso. Na sua conta, consulte e encerre sessões de outros dispositivos.
 
 <p align="center">
-  <img src="imagens/protecao-e-seguranca.png" alt="Desbloqueio de pasta com senha, tempo de acesso e recuperação por e-mail" width="560">
+  <img src="imagens/protecao-e-seguranca.png" alt="Desbloqueio com senha, tempo de acesso e recuperação por e-mail" width="560">
 </p>
+
+Use o modo somente leitura para apresentar seu conteúdo com um ponteiro laser, deixando espaço para suas anotações.
 
 ## Atualizações
 
-Acompanhe as novidades e baixe os APKs na [página de versões](https://github.com/DaviMarino/mynotions-app/releases). Cada publicação reúne as mudanças da versão e os arquivos para instalação.
+O MyNotions avisa quando uma versão está disponível e conduz o download ao instalador Android ou Windows. Quando a atualização é obrigatória, escolha **Atualizar** ou **Sair**. Conclua a instalação e reabra para continuar suas notas.
 
-Para atualizar, baixe o novo APK e instale-o sobre a versão pública que você já utiliza. Mantenha o aplicativo instalado durante esse processo para preservar seus dados locais.
+Você também pode atualizar pelos arquivos da [versão mais recente](https://github.com/DaviMarino/mynotions-app/releases/tag/v0.18.0), instalando sobre a existente. Para quem começou na0.16.0, instalar a0.18.0 ativa o fluxo integrado de atualização.
 
-Sua experiência ajuda a construir o MyNotions. Compartilhe sugestões e relate problemas nas [Issues da comunidade](https://github.com/DaviMarino/mynotions-app/issues), contando o que aconteceu e qual dispositivo você utiliza. Ao enviar imagens, preserve seus dados pessoais.
+Conheça as [novidades da versão0.18.0](https://github.com/DaviMarino/mynotions-app/releases/tag/v0.18.0) e compartilhe sugestões nas [Issues da comunidade](https://github.com/DaviMarino/mynotions-app/issues). Ao relatar um problema, informe a versão exibida no menu e seu dispositivo; preserve os dados pessoais nas imagens.
