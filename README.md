@@ -8,18 +8,18 @@ Comece uma anotação rápida, desenvolva um caderno de estudos ou espalhe um pr
 
 ## Instalação
 
-Baixe a **versão0.19.0** para seu dispositivo:
+Baixe a **versão0.20.0** para seu dispositivo:
 
-- **[Android — baixar APK](https://github.com/DaviMarino/mynotions-app/releases/download/v0.19.0/MyNotions-0.19.0-android.apk):** abra no tablet ou celular, autorize a instalação pelo aplicativo usado para abrir o arquivo quando solicitado e conclua o instalador.
-- **[Windows — baixar instalador](https://github.com/DaviMarino/mynotions-app/releases/download/v0.19.0/MyNotions-0.19.0-windows-x64-setup.exe):** execute, conclua o assistente e abra o MyNotions pelo atalho.
+- **[Android — baixar APK](https://github.com/DaviMarino/mynotions-app/releases/download/v0.20.0/MyNotions-0.20.0-android.apk):** abra no tablet ou celular, autorize a instalação pelo aplicativo usado para abrir o arquivo quando solicitado e conclua o instalador.
+- **[Windows — baixar instalador](https://github.com/DaviMarino/mynotions-app/releases/download/v0.20.0/MyNotions-0.20.0-windows-x64-setup.exe):** execute, conclua o assistente e abra o MyNotions pelo atalho.
 
-Comece sem cadastro ou entre na mesma conta para sincronizar. A versão instalada aparece no rodapé do menu da Home e do editor. [Veja as novidades e arquivos da versão](https://github.com/DaviMarino/mynotions-app/releases/tag/v0.19.0).
+Comece sem cadastro ou entre na mesma conta para sincronizar. A versão instalada aparece no rodapé do menu da Home e do editor. [Veja as novidades e arquivos da versão](https://github.com/DaviMarino/mynotions-app/releases/tag/v0.20.0).
 
 ## Descrição do aplicativo e funcionalidades
 
 ### Cadernos organizados, ideias fáceis de encontrar
 
-Crie cadernos com várias páginas, distribua em pastas e subpastas, personalize as cores das pastas e marque favoritos. Descrição, tags e propriedades ajudam a contextualizar cada documento; a busca também encontra esses metadados.
+Crie cadernos com várias páginas, distribua em pastas e subpastas, personalize as cores das pastas por HEX/RGB e marque favoritos. Organize os destinos em uma árvore de pastas e subpastas ou arraste documentos pela alça até a pasta desejada. Descrição, tags e propriedades ajudam a contextualizar cada documento; a busca também encontra esses metadados.
 
 <p align="center">
   <img src="imagens/home.png" alt="Biblioteca com pastas, favoritos e sincronização" width="560">
@@ -30,6 +30,8 @@ Crie cadernos com várias páginas, distribua em pastas e subpastas, personalize
 Combine escrita à mão com texto Markdown, títulos, listas, tarefas e código. Use formas, setas, imagens e diferentes estilos de linha para explicar suas ideias. Selecione elementos para mover, redimensionar, girar e recolorir. Conecte formas e imagens com setas que acompanham seus movimentos, escreva dentro de retângulos e quadrados e personalize cantos em pixels. O painel Objetos ajuda a encontrar elementos sobrepostos; recorte ou arraste conjuntos entre páginas para reorganizar suas ideias.
 
 Nos cadernos, o texto inline acompanha a escrita pelas páginas e abre espaço para seus objetos com Sobrepor, Pular ou Contornar. Tabelas Markdown organizam informações e diagramas Mermaid transformam código em fluxogramas editáveis.
+
+Escolha entre novas formas como estrela, coração, nuvem e usuário. Salve paletas favoritas com nome e sete cores, com escolhas independentes por ferramenta. Bloqueie objetos para preservar seus elementos enquanto continua trabalhando na página.
 
 Ajuste espessuras, apague objetos ou apenas a região percorrida e mantenha as cores à mão com uma paleta flutuante que você pode mover e encaixar nas laterais.
 
@@ -71,8 +73,10 @@ Use o modo somente leitura para apresentar seu conteúdo com um ponteiro laser, 
 
 ## Atualizações
 
+Na primeira abertura de cada versão, as novidades aparecem dentro do aplicativo, disponíveis também offline. Consulte o histórico pelo atalho **Novidades e releases** nos menus da Home e do editor.
+
 O MyNotions avisa quando uma versão está disponível e conduz o download ao instalador Android ou Windows. Quando a atualização é obrigatória, escolha **Atualizar** ou **Sair**. Conclua a instalação e reabra para continuar suas notas.
 
-Você também pode atualizar pelos arquivos da [versão mais recente](https://github.com/DaviMarino/mynotions-app/releases/tag/v0.19.0), instalando sobre a existente. Para quem começou na0.16.0, instalar a0.19.0 ativa o fluxo integrado de atualização.
+Você também pode atualizar pelos arquivos da [versão mais recente](https://github.com/DaviMarino/mynotions-app/releases/tag/v0.20.0), instalando sobre a existente. Para quem começou na0.16.0, instalar a0.20.0 ativa o fluxo integrado de atualização.
 
-Conheça as [novidades da versão0.19.0](https://github.com/DaviMarino/mynotions-app/releases/tag/v0.19.0) e compartilhe sugestões nas [Issues da comunidade](https://github.com/DaviMarino/mynotions-app/issues). Ao relatar um problema, informe a versão exibida no menu e seu dispositivo; preserve os dados pessoais nas imagens.
+Conheça as [novidades da versão0.20.0](https://github.com/DaviMarino/mynotions-app/releases/tag/v0.20.0) e compartilhe sugestões nas [Issues da comunidade](https://github.com/DaviMarino/mynotions-app/issues). Ao relatar um problema, informe a versão exibida no menu e seu dispositivo; preserve os dados pessoais nas imagens.
