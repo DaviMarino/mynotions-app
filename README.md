@@ -1,88 +1,184 @@
 # Quem Somos
 
+
+
 **MyNotions — Suas ideias, por perto.**
+
+
 
 Escreva à mão, digite, desenhe e organize suas referências no mesmo lugar. Criado por **Davi Marino**, o MyNotions combina a liberdade da caneta no tablet com a praticidade de continuar o trabalho no Windows.
 
+
+
 Comece uma anotação rápida, desenvolva um caderno de estudos ou espalhe um projeto por uma Lousa. Suas notas ficam disponíveis offline e, com uma conta, acompanham você entre dispositivos.
+
+
 
 ## Instalação
 
-Baixe a **versão0.21.0** para seu dispositivo:
 
-- **[Android — baixar APK](https://github.com/DaviMarino/mynotions-app/releases/download/v0.21.0/MyNotions-0.21.0-android.apk):** abra no tablet ou celular, autorize a instalação pelo aplicativo usado para abrir o arquivo quando solicitado e conclua o instalador.
-- **[Windows — baixar instalador](https://github.com/DaviMarino/mynotions-app/releases/download/v0.21.0/MyNotions-0.21.0-windows-x64-setup.exe):** execute, conclua o assistente e abra o MyNotions pelo atalho.
 
-Comece sem cadastro ou entre na mesma conta para sincronizar. A versão instalada aparece no rodapé do menu da Home e do editor. [Veja as novidades e arquivos da versão](https://github.com/DaviMarino/mynotions-app/releases/tag/v0.21.0).
+Baixe a **versão 0.22.0** para seu dispositivo. O APK atual requer Android ARM64 (64 bits), como os tablets Idea Tab Pro e Galaxy Tab S6 Lite testados:
+
+
+
+- **[Android — baixar APK](https://github.com/DaviMarino/mynotions-app/releases/download/v0.22.0/MyNotions-0.22.0-android.apk):** abra no tablet ou celular, autorize a instalação pelo aplicativo usado para abrir o arquivo quando solicitado e conclua o instalador.
+
+- **[Windows — baixar instalador](https://github.com/DaviMarino/mynotions-app/releases/download/v0.22.0/MyNotions-0.22.0-windows-x64-setup.exe):** execute, conclua o assistente e abra o MyNotions pelo atalho.
+
+
+
+Comece sem cadastro ou entre na mesma conta para sincronizar. A versão instalada aparece no rodapé do menu da Home e do editor. [Veja as novidades e arquivos da versão](https://github.com/DaviMarino/mynotions-app/releases/tag/v0.22.0).
+
+
 
 ## Descrição do aplicativo e funcionalidades
 
+
+
 ### Cadernos organizados, ideias fáceis de encontrar
+
+
 
 Crie cadernos com várias páginas, distribua em pastas e subpastas, personalize as cores das pastas por HEX/RGB e marque favoritos. Organize os destinos em uma árvore de pastas e subpastas ou arraste documentos pela alça até a pasta desejada. Descrição, tags e propriedades ajudam a contextualizar cada documento; a busca também encontra esses metadados.
 
+
+
 <p align="center">
+
   <img src="imagens/home.png" alt="Biblioteca com pastas, favoritos e sincronização" width="560">
+
 </p>
+
+
 
 ### A caneta e o teclado se complementam
 
+
+
 Combine escrita à mão com texto Markdown, títulos, listas, tarefas e código. Use formas, setas, imagens e diferentes estilos de linha para explicar suas ideias. Selecione elementos para mover, redimensionar, girar e recolorir. Conecte formas e imagens com setas que acompanham seus movimentos, escreva dentro de retângulos e quadrados e personalize cantos em pixels. O painel Objetos ajuda a encontrar elementos sobrepostos; recorte ou arraste conjuntos entre páginas para reorganizar suas ideias.
+
+
 
 Nos cadernos, o texto inline acompanha a escrita pelas páginas e abre espaço para seus objetos com Sobrepor, Pular ou Contornar. Tabelas Markdown organizam informações e diagramas Mermaid transformam código em fluxogramas editáveis.
 
+
+
 Escolha entre novas formas como estrela, coração, nuvem e usuário. Salve paletas favoritas com nome e sete cores, com escolhas independentes por ferramenta. Bloqueie objetos para preservar seus elementos enquanto continua trabalhando na página.
+
+
 
 Ajuste espessuras, apague objetos ou apenas a região percorrida e mantenha as cores à mão com uma paleta flutuante que você pode mover e encaixar nas laterais.
 
+
+
 <p align="center">
+
   <img src="imagens/escrita-e-teclado.png" alt="Caderno com escrita à mão, teclado e formas" width="560">
+
 </p>
+
+
+
+### Calculadora e formas automáticas
+
+Escreva uma conta e suas variáveis e cerque com o laço da calculadora para obter um resultado local. Confira e edite a leitura no painel numerado de expressões/LaTeX. O resultado é tinta apagável. No menu **Assistência** da tela inicial, baixe opcionalmente o **UniMERNet Tiny** (~433 MB); o modelo fica separado do instalador e é preservado nas atualizações. A calculadora usa CPU e não oferece resolução simbólica nem passo a passo nesta versão.
+
+Para regularizar formas, desenhe em um único traço e mantenha a ponta parada por **1,1 segundo**. Nas configurações da caneta, abaixo de Estilo do traço, escolha **Livre** ou **Proporções perfeitas** (círculo, quadrado e triângulo equilátero). Esse recurso não exige modelo. Desfazer restaura o rabisco original.
+
+O modal de sincronização de gravações também permite **baixar o áudio original WAV/OGG e a transcrição TXT com horários**, para guardar uma cópia ou anexar ao serviço de sua escolha. Arquivos somente na nuvem precisam ser sincronizados primeiro.
 
 ### Mais espaço com a Lousa
 
+
+
 Desenvolva fluxogramas, mapas mentais e projetos em uma superfície de **10.000 × 10.000**, navegando na horizontal e na vertical. O mini mapa interativo ajuda a localizar o conteúdo e chegar a outra região mantendo o zoom.
+
+
 
 Com “somente caneta” ativo, mova a área com um dedo nas ferramentas compatíveis. Ative **Travar tela** para manter o enquadramento enquanto escreve e use Mover para reposicionar.
 
+
+
 ### Suas referências fazem parte das notas
+
+
 
 Abra PDFs, escreva e destaque sobre o material. Insira imagens para reunir explicações e referências no mesmo documento. Escolha fundos lisos, pautados, quadriculados ou pontilhados; novos documentos começam quadriculados.
 
+
+
 <p align="center">
+
   <img src="imagens/anotacoes-pdf.png" alt="Anotações à mão sobre material em PDF" width="560">
+
 </p>
+
+
 
 ### Reuniões e gravações junto das suas notas
 
+
+
 Grave o microfone no Android ou escolha microfone, som do sistema ou ambos no Windows. Ouça os áudios em uma aba lateral, ajuste a velocidade e consulte transcrições locais para visualizar, baixar TXT ou adicionar ao final do caderno. Escolha processar depois de gravar ou durante a gravação; o modo ao vivo consome mais recursos e bateria. O reconhecimento pode errar palavras e precisa de revisão.
+
+
 
 Áudios e transcrições completas são transferidos somente quando você escolher sincronizar. Os indicadores mostram as cópias locais e os arquivos disponíveis para download; a exclusão pode afetar apenas este dispositivo ou todos eles. Os originais WAV são mantidos após transcrever. Os rascunhos ao vivo ficam locais nesta versão.
 
+
+
 ### Continue no outro dispositivo e compartilhe seu trabalho
+
+
 
 Suas notas são salvas localmente para trabalhar offline. Com uma conta, sincronize entre Android e Windows e acompanhe as mudanças com o documento aberto. Gerencie até três contas por dispositivo, com espaços separados.
 
+
+
 Exporte JSON para manter uma cópia editável, páginas em PDF e imagens em **PNG ou SVG**. Escolha fundo transparente ou preenchido, ajuste a margem e confira a resolução. Selecione várias páginas de uma vez e mantenha suas imagens organizadas em subpastas por conta e caderno no Android e Windows. No navegador, várias imagens são reunidas em ZIP. O PNG mantém a resolução original do recorte; o SVG preserva textos e elementos vetoriais.
+
+
 
 ### Mais controle sobre conteúdos pessoais
 
+
+
 Proteja documentos, pastas e subpastas com senha, personalize a senha de conteúdos específicos e escolha por quanto tempo ficam desbloqueados. O contador de acesso e o aviso antes do bloqueio ajudam a administrar esse tempo.
+
+
 
 Dispositivos confiáveis, confirmação e recuperação por e-mail complementam o acesso. Na sua conta, consulte e encerre sessões de outros dispositivos.
 
+
+
 <p align="center">
+
   <img src="imagens/protecao-e-seguranca.png" alt="Desbloqueio com senha, tempo de acesso e recuperação por e-mail" width="560">
+
 </p>
+
+
 
 Use o modo somente leitura para apresentar seu conteúdo com um ponteiro laser, deixando espaço para suas anotações.
 
+
+
 ## Atualizações
+
+
 
 Na primeira abertura de cada versão, as novidades aparecem dentro do aplicativo, disponíveis também offline. Consulte o histórico pelo atalho **Novidades e releases** nos menus da Home e do editor.
 
+
+
 O MyNotions avisa quando uma versão está disponível e conduz o download ao instalador Android ou Windows. Quando a atualização é obrigatória, escolha **Atualizar** ou **Sair**. Conclua a instalação e reabra para continuar suas notas.
 
-Você também pode atualizar pelos arquivos da [versão mais recente](https://github.com/DaviMarino/mynotions-app/releases/tag/v0.21.0), instalando sobre a existente. Para quem começou na0.16.0, instalar a0.21.0 ativa o fluxo integrado de atualização.
 
-Conheça as [novidades da versão0.21.0](https://github.com/DaviMarino/mynotions-app/releases/tag/v0.21.0) e compartilhe sugestões nas [Issues da comunidade](https://github.com/DaviMarino/mynotions-app/issues). Ao relatar um problema, informe a versão exibida no menu e seu dispositivo; preserve os dados pessoais nas imagens.
+
+Você também pode atualizar pelos arquivos da [versão mais recente](https://github.com/DaviMarino/mynotions-app/releases/tag/v0.22.0), instalando sobre a existente. Para quem começou na0.16.0, instalar a0.22.0 ativa o fluxo integrado de atualização.
+
+
+
+Conheça as [novidades da versão0.22.0](https://github.com/DaviMarino/mynotions-app/releases/tag/v0.22.0) e compartilhe sugestões nas [Issues da comunidade](https://github.com/DaviMarino/mynotions-app/issues). Ao relatar um problema, informe a versão exibida no menu e seu dispositivo; preserve os dados pessoais nas imagens.
+
