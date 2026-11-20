@@ -18,17 +18,17 @@ Comece uma anotação rápida, desenvolva um caderno de estudos ou espalhe um pr
 
 
 
-Baixe a **versão 0.22.0** para seu dispositivo. O APK atual requer Android ARM64 (64 bits), como os tablets Idea Tab Pro e Galaxy Tab S6 Lite testados:
+Baixe a **versão 1.0.0** para seu dispositivo. O APK atual requer Android ARM64 (64 bits), como os tablets Idea Tab Pro e Galaxy Tab S6 Lite testados:
 
 
 
-- **[Android — baixar APK](https://github.com/DaviMarino/mynotions-app/releases/download/v0.22.0/MyNotions-0.22.0-android.apk):** abra no tablet ou celular, autorize a instalação pelo aplicativo usado para abrir o arquivo quando solicitado e conclua o instalador.
+- **[Android — baixar APK](https://github.com/DaviMarino/mynotions-app/releases/download/v1.0.0/MyNotions-1.0.0-android.apk):** abra no tablet ou celular, autorize a instalação pelo aplicativo usado para abrir o arquivo quando solicitado e conclua o instalador.
 
-- **[Windows — baixar instalador](https://github.com/DaviMarino/mynotions-app/releases/download/v0.22.0/MyNotions-0.22.0-windows-x64-setup.exe):** execute, conclua o assistente e abra o MyNotions pelo atalho.
+- **[Windows — baixar instalador](https://github.com/DaviMarino/mynotions-app/releases/download/v1.0.0/MyNotions-1.0.0-windows-x64-setup.exe):** execute, conclua o assistente e abra o MyNotions pelo atalho.
 
 
 
-Comece sem cadastro ou entre na mesma conta para sincronizar. A versão instalada aparece no rodapé do menu da Home e do editor. [Veja as novidades e arquivos da versão](https://github.com/DaviMarino/mynotions-app/releases/tag/v0.22.0).
+Comece sem cadastro ou entre na mesma conta para sincronizar. A versão instalada aparece no rodapé do menu da Home e do editor. [Veja as novidades e arquivos da versão](https://github.com/DaviMarino/mynotions-app/releases/tag/v1.0.0).
 
 
 
@@ -176,9 +176,9 @@ O MyNotions avisa quando uma versão está disponível e conduz o download ao in
 
 
 
-Você também pode atualizar pelos arquivos da [versão mais recente](https://github.com/DaviMarino/mynotions-app/releases/tag/v0.22.0), instalando sobre a existente. Para quem começou na0.16.0, instalar a0.22.0 ativa o fluxo integrado de atualização.
+Você também pode atualizar pelos arquivos da [versão mais recente](https://github.com/DaviMarino/mynotions-app/releases/tag/v1.0.0), instalando sobre a existente. Para quem começou na0.16.0, instalar a1.0.0 ativa o fluxo integrado de atualização.
 
 
 
-Conheça as [novidades da versão0.22.0](https://github.com/DaviMarino/mynotions-app/releases/tag/v0.22.0) e compartilhe sugestões nas [Issues da comunidade](https://github.com/DaviMarino/mynotions-app/issues). Ao relatar um problema, informe a versão exibida no menu e seu dispositivo; preserve os dados pessoais nas imagens.
+Conheça as [novidades da versão1.0.0](https://github.com/DaviMarino/mynotions-app/releases/tag/v1.0.0) e compartilhe sugestões nas [Issues da comunidade](https://github.com/DaviMarino/mynotions-app/issues). Ao relatar um problema, informe a versão exibida no menu e seu dispositivo; preserve os dados pessoais nas imagens.
 
