@@ -22,7 +22,7 @@ Baixe a **versão 1.0.0** para seu dispositivo. O APK atual requer Android ARM64
 
 
 
-- **[Android — baixar APK](https://github.com/DaviMarino/mynotions-app/releases/download/v1.0.0/MyNotions-1.0.0-android.apk):** abra no tablet ou celular, autorize a instalação pelo aplicativo usado para abrir o arquivo quando solicitado e conclua o instalador.
+- **[Android — baixar APK com a home corrigida](https://github.com/DaviMarino/mynotions-app/releases/download/v1.0.0/MyNotions-1.0.0-android-home-corrigida.apk):** abra no tablet ou celular, autorize a instalação pelo aplicativo usado para abrir o arquivo quando solicitado e conclua o instalador.
 
 - **[Windows — baixar instalador](https://github.com/DaviMarino/mynotions-app/releases/download/v1.0.0/MyNotions-1.0.0-windows-x64-setup.exe):** execute, conclua o assistente e abra o MyNotions pelo atalho.
 
